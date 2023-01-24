@@ -1,0 +1,4 @@
+Marc;1700
+IIM;1500
+Vinci;1500
+Remy;1350
